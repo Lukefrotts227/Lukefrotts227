@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lukas an incoming sophmore at Montclair State University. 
+- - 👀 I’m interested in 
 - 🌱 I’m currently learning learning C right now, but also looking to see what other skills I can learn. 
 - 💞️ I’m looking to collaborate on anything, I love learning new skills and working on projects.
 - 📫 my linkedin is n/lukas-frotton-07b79422b. 
