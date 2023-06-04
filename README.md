@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning learning C and data structures and algorithms right now, but also looking to see what other skills I can learn. 
 - 💞️ I’m looking to collaborate on anything, I love learning new skills and working on projects.
 - 📫 my linkedin is in/lukas-frotton-07b79422b. 
-- ☕ I am always looking into to bew project ideas so i can learn more
+- ☕ I am always looking into to new project ideas so I can learn more
 
 
 <!---
