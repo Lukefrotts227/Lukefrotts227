@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lukas an incoming sophmore at Montclair State University. I Enjoy coding in my free time and I love learning new things. Currently learning C and revisiting my three hackathon projects. 
+- 👋 Hi, I’m Lukas a sophmore at Montclair State University. I Enjoy coding in my free time and I love learning new things. Currently learning C and revisiting my three hackathon projects. 
 - 🌱 I’m currently teaching myself C and data structures and algorithms, but also looking to see what other skills I can learn. I am also taking the Harvard cs50 course right now.
 - 💞️ I’m looking to collaborate on anything. I love learning new skills and working on projects.
 - 📫 my linkedin is in/lukas-frotton-07b79422b. 
