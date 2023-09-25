@@ -10,6 +10,8 @@
 - These include [Webdevarc](https://github.com/Lukefrotts227/webdevarc), [Learning C/C++](https://github.com/Lukefrotts227/learningC) and [Learning Data Structures and Algorthims](https://github.com/Lukefrotts227/learningDataStructsandAlg).
 - However they still contain relavent code and many useful projects.
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lukefrotts227)](https://git.io/streak-stats)
 <!---
 Lukefrotts227/Lukefrotts227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
