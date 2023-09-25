@@ -9,8 +9,8 @@
 - Are larger and contain many projects and are setup to showcase my learning overtime.
 - These include [Webdevarc](https://github.com/Lukefrotts227/webdevarc), [Learning C/C++](https://github.com/Lukefrotts227/learningC) and [Learning Data Structures and Algorthims](https://github.com/Lukefrotts227/learningDataStructsandAlg).
 - However they still contain relavent code and many useful projects.
-
-
+<br>
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lukefrotts227)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukefrotts227)](https://github.com/anuraghazra/github-readme-stats)
