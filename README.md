@@ -12,11 +12,14 @@
 
 <br>
 
+<div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lukefrotts227&theme=tokyonight-duo&border=EB18C4&background=45%2CEB2AC3%2CEB5454)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukefrotts227)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</div>
 
 <!---
 Lukefrotts227/Lukefrotts227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
