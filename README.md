@@ -12,7 +12,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lukefrotts227)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lukefrotts227&theme=highcontrast&border_radius=8.8&card_width=509&fire=83EB39)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukefrotts227)](https://github.com/anuraghazra/github-readme-stats)
 <!---
