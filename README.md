@@ -12,7 +12,7 @@
 
 <br>
 
-<div><!-- .element: style="display: flex; flex-direction: row;" -->
+<div><!-- .element: style="display: flex;" -->
 
 
 
