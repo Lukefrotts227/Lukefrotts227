@@ -6,6 +6,7 @@
 - ☕ I am always looking into new project ideas. I will be attending more hackathons in the future.
 - 📁 I deployed my [portfolio website](https://lukasjfrotton.netlify.app) but I will continue to update it [here](https://github.com/Lukefrotts227/portfolioLukasF).
 - 📽️ I am currently working on a project I aim to deploy check it out [here](https://github.com/Lukefrotts227/lukasmanager101).
+- 🚄 Working on [this project](https://github.com/Lukefrotts227/first-side-project) as well. deployed [here](https://side-project-pioneer.vercel.app/)
 # Learning Repositories 
 - Are larger and contain many projects and are setup to showcase my learning overtime.
 - These include [Webdevarc](https://github.com/Lukefrotts227/webdevarc), [Learning C/C++](https://github.com/Lukefrotts227/learningC) and [Learning Data Structures and Algorthims](https://github.com/Lukefrotts227/learningDataStructsandAlg).
