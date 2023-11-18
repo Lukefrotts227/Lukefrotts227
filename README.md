@@ -13,6 +13,7 @@
 - These include [Webdevarc](https://github.com/Lukefrotts227/webdevarc), [Learning C/C++](https://github.com/Lukefrotts227/learningC), [Learning Data Structures and Algorthims](https://github.com/Lukefrotts227/learningDataStructsandAlg) and [Learning Rust](https://github.com/Lukefrotts227/learningrust).
 - However they still contain relavent code and many useful projects.
 - With my portfolio site deployed I will be doing more work in these repositories now
+- I also learn through side projects seperate from the repositories
 
 <br>
 
