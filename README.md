@@ -18,36 +18,36 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<table>
+
+  <div> 
+  
+  
+    
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Lukefrotts227&theme=tokyonight-duo&border=EB18C4&background=45%2CEB2AC3%2CEB5454)](https://git.io/streak-stats)
+  
+  
+  
+  
+  </div>
 
 
-<div> 
-
+  <div>
+  
+  
+  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukefrotts227)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+  
+  </div> 
 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lukefrotts227&theme=tokyonight-duo&border=EB18C4&background=45%2CEB2AC3%2CEB5454)](https://git.io/streak-stats)
+</table>
 
 
 
-
-</div>
-
-
-<div>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukefrotts227)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-</div> 
-
-
-
-</div>
 
 <!---
 Lukefrotts227/Lukefrotts227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
