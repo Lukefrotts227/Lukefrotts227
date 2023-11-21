@@ -18,8 +18,7 @@
 
 <br>
 
-<div><!-- .element: style="display: flex; flex-direction: row;" -->
-
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
 
 <div> 
