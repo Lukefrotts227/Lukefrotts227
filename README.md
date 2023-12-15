@@ -1,5 +1,5 @@
 # About Me 
-- 👋 Hi, I’m Lukas, a sophomore  who will be transfering to Rutgers New Brunswick in the Spring. I enjoy coding in my free time and love learning new things. Currently learning C and revisiting my five hackathon projects.
+- 👋 Hi, I’m Lukas, a sophomore who will be transfering to Rutgers New Brunswick in the Spring. I enjoy coding in my free time and love learning new things. Currently learning C and revisiting my five hackathon projects.
 - 🏂 Right now, I am building up my portfolio with different projects. 
 - 🌱 I’m currently teaching myself C and diving deeper into web development, but also looking to see what other skills I can learn. I am also taking the Harvard cs50 course right now.
 - 💞️ I’m looking to collaborate on anything. I love learning new skills and working on projects.
