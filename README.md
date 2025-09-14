@@ -1,5 +1,5 @@
 # About Me 
-- 👋 Hi, I’m Lukas, a junior to Rutgers New Brunswick. I enjoy coding in my free time and love learning new things. Currently exploring project ideas
+- 👋 Hi, I’m Lukas, a senior to Rutgers New Brunswick. I enjoy coding in my free time and love learning new things. Currently exploring project ideas
 - 🏂 Right now, I am building up my portfolio with different projects. Also Learning to code up a physics engine. 
 - 💞️ I’m looking to collaborate on anything. I love learning new skills and working on projects.
 - 📫 Here is my [Linkedin](https://www.linkedin.com/in/lukas-frotton-07b79422b/) and my [Devpost](https://devpost.com/ljfrotton). 
