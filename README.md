@@ -1,12 +1,6 @@
 # About Me 
-- 👋 Hi, I’m Lukas, a senior to Rutgers New Brunswick. I enjoy coding in my free time and love learning new things. Currently exploring project ideas
-- 🏂 Right now, I am building up my portfolio with different projects. Also Learning to code up a physics engine. 
-- 💞️ I’m looking to collaborate on anything. I love learning new skills and working on projects.
-- 📫 Here is my [Linkedin](https://www.linkedin.com/in/lukas-frotton-07b79422b/) and my [Devpost](https://devpost.com/ljfrotton). 
-- ☕ I am always looking into new project ideas. I will be attending more hackathons in the future.
-- 📁 I deployed my [portfolio website](https://lukasjfrotton.netlify.app)
-- 🚄 Working on [this project](https://github.com/Lukefrotts227/first-side-project) as well, deployed [here](https://side-project-pioneer.vercel.app/).
-- ⏰ Will be redoing hackathon projects in new repo, now starting with [Community Action Organizer](https://github.com/Lukefrotts227/CommunityActionOrganizer2.0) and [Climate Collab](https://github.com/Lukefrotts227/ClimateCollab2.0).
+- I’m Lukas, a senior to Rutgers New Brunswick. I am a computer science major and a mathematics minor.
+- I am in the process of reworking my portfolio, and this Readme.
 
 <br>
 
